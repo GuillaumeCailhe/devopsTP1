@@ -1,0 +1,14 @@
+Etape 7 :
+1) git checkout -b fork1
+
+2)
+git branch
+ou
+gitk --branches
+
+3) git branch
+(il y a une étoile sur la branche courante)
+
+4) git checkout <nom_de_la_branche>
+
+5) le dossier branchtest n'est plus visible : il ne se trouve pas dans la branche master.
