@@ -1,0 +1,6 @@
+Etape 11 :
+	git rebase master
+	depuis fork2
+
+	Le merge a créé un commit de merge et a fusionné les deux branches.
+	Le rebase rajoute les modifications faites sur la branche à la suite des commits de master. L'historique est donc plus simple à suivre.
