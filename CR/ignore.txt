@@ -1,0 +1,5 @@
+Etape 13:
+	
+	Création d'un fichier .gitignore avec les règles suivantes :
+		*.pdf
+		tmp/*
