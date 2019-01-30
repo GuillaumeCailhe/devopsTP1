@@ -1,0 +1,7 @@
+Etape 10:
+Changes to be committed : Le fichier a été add et committed.
+Changes not staged for commit : Le fichier a été add et committed. Cependant, il a été modifié depuis. Les derniers changements ne sont donc pas commits.
+Untracked files : Le fichier n'a pas été add.
+
+Les fichiers peuvent être dans changes to be committed et changes not staged for commit en même temps. En effet, une partie des modifications a été commit, le fichier apparaît donc 
+dans la première catégorie.
