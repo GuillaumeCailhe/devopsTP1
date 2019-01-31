@@ -1,0 +1,9 @@
+Etape 15:
+
+	Nous avons utilisé la commande suivante pour récupérer l'id du dernier commit : 
+		git log
+	
+	Nous avons ensuite utilisé :
+		git revert <id du commit précédent>
+	
+	Nous aurions pu aussi utiliser git checkout <id du commit précédent> et merge cette nouvelle branche.
