@@ -1,4 +1,4 @@
-Etape 15:
+Etape 15&16:
 
 	Nous avons utilisé la commande suivante pour récupérer l'id du dernier commit : 
 		git log
