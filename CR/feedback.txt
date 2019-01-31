@@ -1,0 +1,4 @@
+Nous avons beaucoup appris avec ce tp.
+La seule partie qui nous a posé problème était les branches.
+Nous avions mal compris qu'il fallait commit les changements locaux avant de changer de branche. Nous l'avons compris par nous-même et cela ne nous a été confirmé que plus tard 
+avec git stash.
