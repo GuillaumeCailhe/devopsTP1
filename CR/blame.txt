@@ -1,0 +1,4 @@
+Etape 17:
+
+	git blame affiche qui a modifié quel fichier, quelles ont été les modifications effectuées et dans quel commit elles ont été effectuées.
+	L'option -e permet d'afficher l'email au lieu du nom.
