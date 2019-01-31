@@ -1,0 +1,5 @@
+Etape 14:
+	Nous avons créé un dossier "conflictTest" dans les deux branches. Ce dossier contenait le fichier "conflitAGenerer". Ce fichier avait un contenu différent dans chaque 
+branche ce qui a provoqué un conflit lors du merge.
+
+	Nous avons décidé de conserver le fichier de la branche master et de commit cette modification.
