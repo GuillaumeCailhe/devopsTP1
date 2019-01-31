@@ -3,5 +3,3 @@ Etape 14:
 branche ce qui a provoqué un conflit lors du merge.
 
 	Nous avons décidé de conserver le fichier de la branche master et de commit cette modification.
-
-Je ne sais pas comment résoudre les conflits.
