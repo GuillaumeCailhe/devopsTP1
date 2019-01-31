@@ -1,0 +1,17 @@
+Etape 19:
+	
+	- git reset monfichier
+		Reset le fichier.
+
+	- git reset commitID
+	similaire à git reset --mixed commitID
+		Change HEAD par commitID.
+		L'index est lui aussi modifié.
+
+	- git reset --soft commitID
+		Change HEAD par commitID.
+		L'index et la working copy ne sont pas modifiés.
+
+	- git reset --hard commitID
+		Change HEAD par commitID.
+		L'index et la working copy sont modifiés. Il y a donc une perte de données.		

@@ -3,3 +3,6 @@ Etape 14:
 branche ce qui a provoqué un conflit lors du merge.
 
 	Nous avons décidé de conserver le fichier de la branche master et de commit cette modification.
+
+Etape 18:
+	git stash est utile si l'on a pas de version intéressante à commit et qu'on a besoin d'avancer sur une autre branche.
